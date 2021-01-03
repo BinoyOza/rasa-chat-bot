@@ -102,7 +102,7 @@ PyYAML==5.3.1
 questionary==1.5.2
 rasa==2.2.1
 rasa-sdk==2.2.0
-rasa-x==0.34.0
+rasa-x
 redis==3.5.3
 regex==2020.9.27
 requests==2.25.1
